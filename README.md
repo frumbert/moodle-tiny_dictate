@@ -1,0 +1,1 @@
+This plugin extends the new TinyMCE editor introduced in Moodle 4.1 by adding the ability to speak to type using the browsers Speech Recognition capabilities in supported browsers.
