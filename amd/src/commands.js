@@ -17,7 +17,7 @@
  * Recognise the speech and insert it into the editor.
  *
  * @module     tiny_dictate/commands
- * @copyright
+ * @copyright frumbert
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  *
  */
@@ -118,7 +118,7 @@ export const getSetup = async() => {
                         buttonApi.setActive(false);
                     });
                 }
-                return () => {}; // No cleanup needed
+                // return () => {}; // No cleanup needed
               }
           });
 

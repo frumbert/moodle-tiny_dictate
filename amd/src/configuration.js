@@ -17,7 +17,7 @@
  * Tiny dictate configuration values.
  *
  * @module    tiny_dictate/configuration
- * @copyright
+ * @copyright frumbert
  * @author
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */

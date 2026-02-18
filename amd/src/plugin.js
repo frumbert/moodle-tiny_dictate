@@ -17,7 +17,7 @@
  * Tiny dictate plugin for the Moodle TinyMCE 6 editor.
  *
  * @module    tiny_dictate/plugin
- * @copyright
+ * @copyright frumbert
  * @author
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
