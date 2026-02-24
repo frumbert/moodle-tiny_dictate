@@ -18,8 +18,7 @@
  * TinyMCE dictate plugin.
  *
  * @package   tiny_dictate
- * @copyright frumbert
- * @author
+ * @copyright tim <tim@frumbert.org>
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
