@@ -18,10 +18,10 @@
  * Strings for TinyMCE dictate plugin.
  *
  * @package   tiny_dictate
- * @copyright frumbert
- * @author
+ * @copyright tim <tim@frumbert.org>
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 $string['pluginname'] = 'Dictate';
 $string['button_toggle_dictate'] = 'Toggle dictation';
+$string['privacy:metadata'] = 'Plugin does not store personal data';
