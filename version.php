@@ -24,9 +24,9 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2026021700;
-$plugin->requires  = 2022111100;
+$plugin->version   = 2026022500;
+$plugin->requires  = 2025041400;
 $plugin->component = 'tiny_dictate';
-$plugin->release   = '1.1.0';
+$plugin->release   = '1.1.1';
 $plugin->maturity  = MATURITY_STABLE;
-$plugin->supported = [401, 500];
+$plugin->supported = 500;
